@@ -64,7 +64,7 @@ public class Principal extends Activity {
         return super.onOptionsItemSelected(item);
     }
 
-    /*Al hacer long clic sobre item del ListView*/
+    /* Al hacer long clic sobre item del ListView */
     @Override
     public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo) {
         super.onCreateContextMenu(menu, v, menuInfo);
