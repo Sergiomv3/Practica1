@@ -24,6 +24,7 @@ import java.util.Collections;
 
 
 public class Principal extends Activity {
+    /*****DECLARAMOS VARIABLES*/
     ArrayList<Componente> datos;
     private Adaptador adapter;
     private RadioGroup rg;
